@@ -1,0 +1,28 @@
+#+TITLE: ADVENT OF CODE 2021
+I am doing advent of code in hoefully 25 different languages, heres the list:
+
+1. Rust
+2. Haskell
+3. (This is a bit of a cheat, i used the emacs-calc)
+4. Python
+5. Nim
+6. Java
+7. ?
+8. ?
+9. ?
+10. ?
+11. ?
+12. ?
+13. ?
+14. ?
+15. ?
+16. ?
+17. ?
+18. ?
+19. ?
+20. ?
+21. ?
+22. ?
+23. ?
+24. ?
+25. ?
